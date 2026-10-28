@@ -1,0 +1,20 @@
+/* Componentes reutilizables */
+.tarjeta {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #f7f9fc;
+}
+
+.boton {
+  display: inline-block;
+  background: #1f4e9c;
+  color: #fff;
+  text-decoration: none;
+  padding: .6rem 1.2rem;
+  border-radius: 6px;
+}
+
+.boton:hover {
+  background: #163a75;
+}
